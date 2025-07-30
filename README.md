@@ -16,7 +16,7 @@
 - 📈 Raised **2600+ valid bugs** in JIRA with high accuracy and stakeholder appreciation
 - 👨‍🏫 Trained interns, led test strategy calls, created test plans, and test reports
 - 🧩 Tested complex Salesforce CRM workflows from lead generation to customer conversion — validated standard/custom fields, automation rules, and integrations with marketing and ERP platforms. Ensured data integrity, seamless UI/UX across devices, and strict access control through comprehensive UAT, performance, and regression testing.
-📣 Validated WebEngage campaigns across onboarding, cart abandonment, feedback, and transactional flows — tested real-time and scheduled triggers, verified event mapping, audience segmentation, and multi-channel delivery (email, push, WhatsApp), ensuring end-to-end data flow to backend analytics systems.
+- 📣 Validated WebEngage campaigns across onboarding, cart abandonment, feedback, and transactional flows — tested real-time and scheduled triggers, verified event mapping, audience segmentation, and multi-channel delivery (email, push, WhatsApp), ensuring end-to-end data flow to backend analytics systems.
 - 🌱 Currently diving deep into **automation** and **GitHub actions**
 
 ---
