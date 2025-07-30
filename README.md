@@ -37,11 +37,12 @@
 
 ### 📊 GitHub Stats
 
-![Ameeruzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameeruzzaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Ameeruzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameeruzzaman&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeruzzaman&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ameeruzzaman&theme=tokyonight&hide_border=true)
+
 
 
 ---
