@@ -10,7 +10,7 @@
 ### 🧪 About Me
 
 - 🔍 **Senior Software Test Engineer** with 5+ years of experience  
-- 🧪 Expertise in **manual testing**, **React Native mobile apps**, **eCommerce platforms**, and **internal CRM/HRMS dashboards**
+- 🧪 Expertise in **manual testing**, **React Native & Hybrid mobile apps**, **eCommerce platforms**, and **internal CRM/HRMS dashboards**
 - 📲 Skilled in **cross-browser**, **mobile view**, and **API testing**
 - 🛠️ Familiar with **Selenium**, **Java**, and **Postman** (Learning automation with goal of 15+ LPA)
 - 📈 Raised **2600+ valid bugs** in JIRA with high accuracy and stakeholder appreciation
