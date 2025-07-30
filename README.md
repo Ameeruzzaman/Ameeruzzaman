@@ -15,9 +15,8 @@
 - 🛠️ Familiar with **Selenium**, **Java**, and **Postman** (Learning automation with goal of 15+ LPA)
 - 📈 Raised **2600+ valid bugs** in JIRA with high accuracy and stakeholder appreciation
 - 👨‍🏫 Trained interns, led test strategy calls, created test plans, and test reports
-- 🧩 Tested complex **Salesforce CRM workflows** from lead generation to customer conversion: validated all standard and custom fields, automation rules, and integrations with marketing/ERP platforms. Ensured complete data integrity, smooth UI/UX across devices, and verified access control policies, delivering high-quality UAT, performance, and regression testing across Salesforce releases.
-- 📣 Worked on **WebEngage campaign validation**: tested real-time and scheduled user engagement flows including onboarding, cart abandonment, feedback collection, and transactional triggers. Verified event mapping, audience segmentation, delivery accuracy across email, push, and WhatsApp channels, and ensured end-to-end data flow from WebEngage to backend analytics tools.
-
+- 🧩 Tested complex Salesforce CRM workflows from lead generation to customer conversion — validated standard/custom fields, automation rules, and integrations with marketing and ERP platforms. Ensured data integrity, seamless UI/UX across devices, and strict access control through comprehensive UAT, performance, and regression testing.
+📣 Validated WebEngage campaigns across onboarding, cart abandonment, feedback, and transactional flows — tested real-time and scheduled triggers, verified event mapping, audience segmentation, and multi-channel delivery (email, push, WhatsApp), ensuring end-to-end data flow to backend analytics systems.
 - 🌱 Currently diving deep into **automation** and **GitHub actions**
 
 ---
@@ -31,6 +30,8 @@
 ![TestRail](https://img.shields.io/badge/TestRail-%230F6DB1.svg?style=for-the-badge&logo=data&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)
+![WebEngage](https://img.shields.io/badge/WebEngage-%23FA3C4C.svg?style=for-the-badge&logo=data&logoColor=white)
 
 ---
 
