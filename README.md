@@ -37,15 +37,18 @@
 
 ### 📊 GitHub Stats
 
-![Ameeruzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ameeruzzamankhan&show_icons=true&theme=tokyonight&hide_title=true)
+![Ameeruzzaman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameeruzzaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeruzzamankhan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ameeruzzaman&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ameeruzzaman&theme=tokyonight&hide_border=true)
+
 
 ---
 
 ### 📌 Featured Highlights
 
-- 🏆 **Bug Hunter** – Raised 1900+ valid bugs with stakeholder recognition
+- 🏆 **Bug Hunter** – Raised 2600+ valid bugs with stakeholder recognition
 - 📈 **Performance Tracker** – Owns end-to-end quality for internal platforms
 - 🔐 **Security & Compliance** – Ensured user-level encryption testing
 - 🎯 **Goal-Oriented** – Aiming to master automation with Selenium + Java
