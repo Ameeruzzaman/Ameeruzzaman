@@ -10,11 +10,14 @@
 ### 🧪 About Me
 
 - 🔍 **Senior Software Test Engineer** with 5+ years of experience  
-- 🧪 Expertise in **manual testing**, **React Native mobile apps**, **eCommerce platforms**, and **internal HRMS dashboards**
+- 🧪 Expertise in **manual testing**, **React Native mobile apps**, **eCommerce platforms**, and **internal CRM/HRMS dashboards**
 - 📲 Skilled in **cross-browser**, **mobile view**, and **API testing**
 - 🛠️ Familiar with **Selenium**, **Java**, and **Postman** (Learning automation with goal of 15+ LPA)
 - 📈 Raised **2600+ valid bugs** in JIRA with high accuracy and stakeholder appreciation
 - 👨‍🏫 Trained interns, led test strategy calls, created test plans, and test reports
+- 🧩 Tested complex **Salesforce CRM workflows** from lead generation to customer conversion: validated all standard and custom fields, automation rules, and integrations with marketing/ERP platforms. Ensured complete data integrity, smooth UI/UX across devices, and verified access control policies, delivering high-quality UAT, performance, and regression testing across Salesforce releases.
+- 📣 Worked on **WebEngage campaign validation**: tested real-time and scheduled user engagement flows including onboarding, cart abandonment, feedback collection, and transactional triggers. Verified event mapping, audience segmentation, delivery accuracy across email, push, and WhatsApp channels, and ensured end-to-end data flow from WebEngage to backend analytics tools.
+
 - 🌱 Currently diving deep into **automation** and **GitHub actions**
 
 ---
